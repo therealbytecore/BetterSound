@@ -30,9 +30,8 @@ No more copy-pasting the same fade-in helper. No more "why are there 40 footstep
 
 ## Installation
 
-1. Copy the setup script from the [Releases](#) page
-2. Open Studio's **Command Bar** (`View → Command Bar`) and run it once
-3. It builds the full module tree under `ReplicatedStorage` — safe to re-run, it always rebuilds clean
+1. Copy the setup script from the [Roblox Create](https://create.roblox.com/store/asset/89803040476185/BetterSound) page
+2. Open Studio's **Toolbox** (`View → Toolbox`) and add it to the game
 
 ---
 
